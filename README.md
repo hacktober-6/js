@@ -17,7 +17,7 @@ main text or with a **flask icon** in the navigation sidebar.
 order to to use these features, we'll need to be in strict mode.
 
 ## Objectives
-
+jkljfklsjdlkfjskld
 By the end of this lesson, students should be able to:
 
 -   List all 5 JavaScript primitives and give an example of each
